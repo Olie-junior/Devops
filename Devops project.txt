@@ -1,0 +1,8 @@
+GIT/GITHUB
+
+CASE STUDY 1:
+Company hired you as a newly devops Automation engineer, who is not only a well versed in a networking but also having a good knowledge as an network Automation engineer, But you appointed as Devops Engineer who will work along with his other colleague to updaye ansible code as part of on going infrastructre Automation 
+
+So first task to create an Github account and clone the repository from github abd do a Git initiation
+
+CASE STUDY 2:
